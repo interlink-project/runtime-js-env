@@ -1,4 +1,4 @@
-module github.com/lithictech/runtime-js-env
+module github.com/interlink-project/runtime-js-env
 
 go 1.12
 
