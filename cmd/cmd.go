@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/lithictech/runtime-js-env/jsenv"
+	"github.com/interlink-project/runtime-js-env/jsenv"
 	"github.com/urfave/cli/v2"
 	"log"
 	"os"
