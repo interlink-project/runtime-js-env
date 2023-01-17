@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/lithictech/runtime-js-env/cmd"
+	"github.com/interlink-project/runtime-js-env/cmd"
 )
 
 func main() {
